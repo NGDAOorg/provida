@@ -1,78 +1,77 @@
 # Provida ngDAO
 Ayuda directa, íntegra y transparente para las mujeres que decidan seguir adelante con su embarazo
-Url: https://provida.ngdao.org
 
-Blockchain: Polygon
+**Url:** https://provida.ngdao.org
 
-Acceso a la DAO: https://client.aragon.org/
+**Blockchain:** Polygon
 
-Nombre de la DAO: provida
+**Acceso a la DAO:** https://client.aragon.org/
 
-Donaciones a la DAO: 0x8c4408a4ed129462c607e9aa5dd37fea2389744a (Polygon)
+**Nombre de la DAO:** provida
 
-Token ERC20 de la DAO:  PROVIDA TOKEN (PRV) 0x4fc8468e3372d8c6e148b6c836d0e673afce5b00
+**Donaciones a la DAO:** 0x8c4408a4ed129462c607e9aa5dd37fea2389744a (Polygon)
 
-Las mujeres que desean tener a sus hijos, no deberían deshacerdse de ellos por falta de recursos. Desde Provida ngDAO ayudamos a estas mujeres a seguir con su embarazo dotando de recursos obtenidos en esta DAO.
+**Token ERC20 de la DAO:**  PROVIDA TOKEN (PRV) 0x4fc8468e3372d8c6e148b6c836d0e673afce5b00
+
+**Las mujeres que desean tener a sus hijos, no deberían deshacerdse de ellos por falta de recursos.** Desde Provida ngDAO ayudamos a estas mujeres a seguir con su embarazo dotando de recursos obtenidos en esta DAO.
 
 ## ¿Cómo ayudar?
-* Envía tus criptomonedas o tokens a 0x8c4408a4ed129462c607e9aa5dd37fea2389744a en la red de Polygon y tendrás derecho a recibir tokens PRV cuando se hagan repartos entre los contribuyentes.
-* Compra tokens PRV en los pools de liquidez que iremos indicando en esta página para así poder tomar parte en las decisiones de la DAO y revalorizar el token que poseen las mujeres afectadas
+* **Envía tus criptomonedas o tokens a 0x8c4408a4ed129462c607e9aa5dd37fea2389744a en la red de Polygon** y tendrás derecho a recibir tokens PRV cuando se hagan repartos entre los contribuyentes.
+* **Compra tokens PRV en los pools de liquidez** que iremos indicando en esta página para así poder tomar parte en las decisiones de la DAO y revalorizar el token que poseen las mujeres afectadas
 
 ## Ayuda DIRECTA
-La ayuda llega directamente, sin intermediarios, a las madres sin recursos.
-
-Quien desee ayudar podrá enviar fondos al fondo común de la DAO. 
+**La ayuda llega directamente**, sin intermediarios, a las madres sin recursos.
 
   * Los promotores de la DAO, los donantes de fondos y otras madres afectadas, **decidirán de forma democrática y transparente como y a quien se le reparten los fondos**
   * Promotores, donantes de fondos y madres afectadas **saben mejor que nadie cómo y a quién repartir las ayudas**
 
 ## Gestión TRANSPARENTE
-Cualquier persona puede ver de forma totalmente transparente:
+**Cualquier persona puede ver** de forma totalmente transparente:
 
-* Cuantos fondos tiene la DAO
+* **Cuantos fondos tiene la DAO**
 
-* Cuantos fondos ha repartido la DAO
+* **Cuantos fondos ha repartido la DAO**
 
-* A donde han ido destinados los fondos de la DAO
+* **A donde han ido destinados los fondos** de la DAO
 
-* Cuales son las votaciones y los resultados de las votaciones y decisiones de la DAO
+* Cuales son **las votaciones y los resultados** de las votaciones y decisiones de la DAO
 
-* Cuantos tokens y poder de votación tiene cada miembro de la DAO
+* Cuantos tokens y **poder de votación** tiene cada miembro de la DAO
 
-* Cuantos fondos ha recibido cada miembro de la DAO a título particular desde la DAO o desde cualquier otro origen
+* **Cuantos fondos ha recibido cada afectada** o miembro de la DAO, bien desde la DAO o desde cualquier otro origen
 
 ## Sistema INCENSURABLE
-La DAO está basada en blockchain, por lo tanto:
+La DAO está **basada en blockchain**, por lo tanto:
 
-* Nadie puede cambiar las reglas de la DAO
+* **Nadie puede cambiar las reglas** de la DAO
 
-* Nadie puede censurar la DAO
+* **Nadie puede censurar la DAO**
 
-* La DAO permanecerá activa y visible por siempre
+* La DAO permanecerá **activa y visible por siempre**
 
 ## Gestión DEMOCRÁTICA
-* Ninguna acción de la DAO se ejecuta sin una votación previa
+* **Ninguna acción de la DAO se ejecuta sin una votación** previa
 
-* El poder de voto reside en la tenencia de tokens de gobernanza
+* **El poder de voto reside en la tenencia de tokens** de gobernanza PRVs
 
-* Los tokens de gobernanza están repartidos entre promotores, donantes y afectados
+* Los tokens de gobernanza PRVs están **repartidos entre promotores, donantes y afectados**
 
 ## REPARTO JUSTO de tokens de gobernanza
 Los tokens de gobernanza se reparten entre:
 
 ### Promotores
 
-Son personas comprometidas con la causa y los poseedores iniciales de tokens pero con vocación de ir perdiendo poder de decisión en favor de afectadas y donantes de fondos, a base de quemar sus tokens o pasarlos a pools de liquidez
+Son **personas comprometidas con la causa** y los poseedores iniciales de tokens pero **con vocación de ir perdiendo poder de decisión** en favor de afectadas y donantes de fondos, a base de quemar sus tokens o pasarlos a pools de liquidez
 
 ### Afectadas
 
-En función del criterio establecido por los miembros de la DAO, las afectadas podrán poseer tokens de la dao en cantidad suficiente para participar en todas las decisiones
+En función del criterio establecido por los miembros de la DAO, **las afectadas podrán poseer tokens de la dao en cantidad suficiente para participar en todas las decisiones**
 
 ### Donantes
 
-Cada mes*, un 10%* de los tokens ya emitidos, son emitidos y repartidos entre los donantes de la DAO proporcionalmente al valor de las ayudas aportadas
+Cada mes*, un 10%* de los **tokens** ya emitidos, **son emitidos y repartidos entre los donantes** de la DAO proporcionalmente al valor de las ayudas aportadas
 
-*El porcentaje de tokens y la periodicidad, puede variar en función de lo que decidan los miembros de la DAO
+* *El porcentaje de tokens y la periodicidad, puede variar en función de lo que decidan los miembros de la DAO
 
 ## Economía DUAL
-Las ayudas recibidas en moneda MATIC, Ether, DAI, o cualquier otro token existente en la red de Polygon, llegan de diferentes donantes y se reparten entre las mujeres necesitadas de estas ayudas, pero el propio token PRV, con valor en pools de liquidez, podría ser aceptado por comercios decididos a ayudar a las afectadas a modo de descuento en las compras que realicen.
+Las ayudas recibidas en moneda MATIC, Ether, DAI, o cualquier otro token existente en la red de Polygon, llegan de diferentes donantes y se reparten entre las mujeres necesitadas de estas ayudas, pero **el propio token PRV, con valor** en pools de liquidez, **podría ser aceptado por comercios** decididos a ayudar a las afectadas **a modo de descuento** en las compras que realicen.
