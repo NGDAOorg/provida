@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+# Provida ngDAO
+Ayuda directa, íntegra y transparente para las mujeres que decidan seguir adelante con su embarazo
+Url: https://provida.ngdao.org
 
-You can use the [editor on GitHub](https://github.com/NGDAOorg/provida/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Blockchain: Polygon
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Acceso a la DAO: https://client.aragon.org/
 
-### Markdown
+Nombre de la DAO: provida
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Donaciones a la DAO: 0x8c4408a4ed129462c607e9aa5dd37fea2389744a (Polygon)
 
-```markdown
-Syntax highlighted code block
+Token ERC20 de la DAO:  PROVIDA TOKEN (PRV) 0x4fc8468e3372d8c6e148b6c836d0e673afce5b00
 
-# Header 1
-## Header 2
-### Header 3
+Las mujeres que desean tener a sus hijos, no deberían deshacerdse de ellos por falta de recursos. Desde Provida ngDAO ayudamos a estas mujeres a seguir con su embarazo dotando de recursos obtenidos en esta DAO.
 
-- Bulleted
-- List
+## ¿Cómo ayudar?
+* Envía tus criptomonedas o tokens a 0x8c4408a4ed129462c607e9aa5dd37fea2389744a en la red de Polygon y tendrás derecho a recibir tokens PRV cuando se hagan repartos entre los contribuyentes.
+* Compra tokens PRV en los pools de liquidez que iremos indicando en esta página para así poder tomar parte en las decisiones de la DAO y revalorizar el token que poseen las mujeres afectadas
 
-1. Numbered
-2. List
+## Ayuda DIRECTA
+La ayuda llega directamente, sin intermediarios, a las madres sin recursos.
 
-**Bold** and _Italic_ and `Code` text
+Quien desee ayudar podrá enviar fondos al fondo común de la DAO. 
 
-[Link](url) and ![Image](src)
-```
+  * Los promotores de la DAO, los donantes de fondos y otras madres afectadas, **decidirán de forma democrática y transparente como y a quien se le reparten los fondos**
+  * Promotores, donantes de fondos y madres afectadas **saben mejor que nadie cómo y a quién repartir las ayudas**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Gestión TRANSPARENTE
+Cualquier persona puede ver de forma totalmente transparente:
 
-### Jekyll Themes
+* Cuantos fondos tiene la DAO
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NGDAOorg/provida/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Cuantos fondos ha repartido la DAO
 
-### Support or Contact
+* A donde han ido destinados los fondos de la DAO
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Cuales son las votaciones y los resultados de las votaciones y decisiones de la DAO
+
+* Cuantos tokens y poder de votación tiene cada miembro de la DAO
+
+* Cuantos fondos ha recibido cada miembro de la DAO a título particular desde la DAO o desde cualquier otro origen
+
+## Sistema INCENSURABLE
+La DAO está basada en blockchain, por lo tanto:
+
+* Nadie puede cambiar las reglas de la DAO
+
+* Nadie puede censurar la DAO
+
+* La DAO permanecerá activa y visible por siempre
+
+## Gestión DEMOCRÁTICA
+* Ninguna acción de la DAO se ejecuta sin una votación previa
+
+* El poder de voto reside en la tenencia de tokens de gobernanza
+
+* Los tokens de gobernanza están repartidos entre promotores, donantes y afectados
+
+## REPARTO JUSTO de tokens de gobernanza
+Los tokens de gobernanza se reparten entre:
+
+### Promotores
+
+Son personas comprometidas con la causa y los poseedores iniciales de tokens pero con vocación de ir perdiendo poder de decisión en favor de afectadas y donantes de fondos, a base de quemar sus tokens o pasarlos a pools de liquidez
+
+### Afectadas
+
+En función del criterio establecido por los miembros de la DAO, las afectadas podrán poseer tokens de la dao en cantidad suficiente para participar en todas las decisiones
+
+### Donantes
+
+Cada mes*, un 10%* de los tokens ya emitidos, son emitidos y repartidos entre los donantes de la DAO proporcionalmente al valor de las ayudas aportadas
+
+*El porcentaje de tokens y la periodicidad, puede variar en función de lo que decidan los miembros de la DAO
+
+## Economía DUAL
+Las ayudas recibidas en moneda MATIC, Ether, DAI, o cualquier otro token existente en la red de Polygon, llegan de diferentes donantes y se reparten entre las mujeres necesitadas de estas ayudas, pero el propio token PRV, con valor en pools de liquidez, podría ser aceptado por comercios decididos a ayudar a las afectadas a modo de descuento en las compras que realicen.
