@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## La Palma DAO Ayuda directa, íntegra y transparente para los afectados por el volcán Cumbre Vieja de la Palma
+Url: https://provida.ngdao.org
 
-You can use the [editor on GitHub](https://github.com/NGDAOorg/provida/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Blockchain: Polygon
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Acceso a la DAO: https://client.aragon.org/
 
-### Markdown
+Nombre de la DAO: provida
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Donaciones a la DAO: 0x8c4408a4ed129462c607e9aa5dd37fea2389744a (Polygon)
 
-```markdown
-Syntax highlighted code block
+Token ERC20 de la DAO: LA PALMA DAO TOKEN (LPD) 0x4fc8468e3372d8c6e148b6c836d0e673afce5b00
 
-# Header 1
-## Header 2
-### Header 3
+**Nuestro objetivo es que la mujer que decida tener un hijo no interrumpa su embarazo por falta de recursos.**
 
-- Bulleted
-- List
+## Ayuda DIRECTA
+La ayuda llega directamente, sin intermediarios, a donde decida quien envía la ayuda.
 
-1. Numbered
-2. List
+Quien desee ayudar podrá enviar fondos a:
 
-**Bold** and _Italic_ and `Code` text
+El fondo común de la DAO. La comunidad DAO de afectados decidirá de forma democrática y transparente como y a quien se le reparten estos fondos
 
-[Link](url) and ![Image](src)
-```
+Los propios damnificados saben mejor que nadie cómo y a quién repartir las ayudas
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Sistema INCENSURABLE
+La DAO está basada en blockchain, por lo tanto:
 
-### Jekyll Themes
+Nadie puede cambiar las reglas de la DAO
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NGDAOorg/provida/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Nadie puede censurar la DAO
 
-### Support or Contact
+La DAO permanecerá activa y visible siempre
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Los fondos de la DAO y de los beneficiarios de las ayudas directas o a través de la DAO son inembargables de por vida
+
+Todo esto genera confianza total por parte de quienes envía y reciben las ayudas
+
+## Economía DUAL
+El uso de una DAO como sistema de ayuda, supone acceder a dos tipos de economía simultáneamente, la de las criptomonedas y la del token como moneda local si fuera necesario.
+
+Una DAO puede ayudar a recaudar fondos de una forma, rápida, transparente y segura.
+
+El Ether o MATIC es fácilmente convertible en euros, por lo que el sistema de ayudas mediante DAOs puede contribuir a dinamizar la economía.
+
+En caso de que las ayudas en Ether o Matic no llegaran con la suficiente fluidez, el propio token de la DAO, aceptado como sistema de pago, entre puede también contribuir a crear un sistema de comercio basado en economía local.
