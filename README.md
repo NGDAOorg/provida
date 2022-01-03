@@ -15,6 +15,8 @@ Ayuda directa, íntegra y transparente para las mujeres que decidan seguir adela
 
 **Las mujeres que desean tener a sus hijos, no deberían deshacerdse de ellos por falta de recursos.** Desde Provida ngDAO ayudamos a estas mujeres a seguir con su embarazo dotando de recursos obtenidos en esta DAO.
 
+**Wiki:** https://github.com/NGDAOorg/provida/wiki/DAOs
+
 ## ¿Cómo ayudar?
 * **Envía tus criptomonedas o tokens a 0x8c4408a4ed129462c607e9aa5dd37fea2389744a en la red de Polygon** y tendrás derecho a recibir tokens PRV cuando se hagan repartos entre los contribuyentes.
 * **Compra tokens PRV en los pools de liquidez** que iremos indicando en esta página para así poder tomar parte en las decisiones de la DAO y revalorizar el token que poseen las mujeres afectadas
