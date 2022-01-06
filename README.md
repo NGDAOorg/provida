@@ -1,9 +1,17 @@
 # Provida ngDAO
-Ayuda directa, íntegra y transparente para las mujeres que decidan seguir adelante con su embarazo
+.-Ayuda directa, íntegra y transparente para las mujeres que decidan seguir adelante con su embarazo
+.-Apoyo económico para  material y elementos que necesita  el  bebé que está por llegar : Ropa, pañales, cuna, coche, atención pediátrica, medicinas.
+.-seguimiento de la unión familiar y apoyo para el sustento y educación del bebé/niño
+
 
 **Url:** https://provida.ngdao.org
 
 **Blockchain:** Polygon
+Las blockchains del entorno Ethereum son las más desarrolladas y testadas del mundo blockchain
+
+La red principal de Ethereum está muy saturada y las comisiones por transacción son prácticamente inasumibles para transferir un token, emitirlo, hacer una propuesta en una DAO o votar la propuesta.
+
+Cada operación que realicemos en Polygon nos cuesta entre una milésima de euro a un céntimo de euro en el peor de los casos.
 
 **Acceso a la DAO:** https://client.aragon.org/
 
