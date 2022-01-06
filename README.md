@@ -5,9 +5,8 @@
 
 
 **Url:** https://provida.ngdao.org
-
+ QUE ES LA BLOCKCHAIN?
 **Blockchain:** Polygon
-QUE ES LA BLOCKCHAIN?
 Las blockchains del entorno Ethereum son las más desarrolladas y testadas del mundo blockchain
 
 La red principal de Ethereum está muy saturada y las comisiones por transacción son prácticamente inasumibles para transferir un token, emitirlo, hacer una propuesta en una DAO o votar la propuesta.
