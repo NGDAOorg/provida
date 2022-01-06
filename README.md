@@ -7,11 +7,14 @@
 **Url:** https://provida.ngdao.org
 
 **Blockchain:** Polygon
+QUE ES LA BLOCKCHAIN?
 Las blockchains del entorno Ethereum son las más desarrolladas y testadas del mundo blockchain
 
 La red principal de Ethereum está muy saturada y las comisiones por transacción son prácticamente inasumibles para transferir un token, emitirlo, hacer una propuesta en una DAO o votar la propuesta.
 
 Cada operación que realicemos en Polygon nos cuesta entre una milésima de euro a un céntimo de euro en el peor de los casos.
+QUE ES MATIC?
+MATIC el el token de Polygon con el que se pagan las comisiones en Polygon y por lo tanto es necesario tener MATIC para trabajar con Provida 
 
 **Acceso a la DAO:** https://client.aragon.org/
 
