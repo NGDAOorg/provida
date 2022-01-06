@@ -15,10 +15,32 @@ Las blockchains del entorno Ethereum son las más desarrolladas y testadas del m
 La red principal de Ethereum está muy saturada y las comisiones por transacción son prácticamente inasumibles para transferir un token, emitirlo, hacer una propuesta en una DAO o votar la propuesta.
 Cada operación que realicemos en Polygon nos cuesta entre una milésima de euro a un céntimo de euro en el peor de los casos.
 
+**COMO CREAMOS UNA WALLET METAMASK?
+
+https://www.youtube.com/watch?v=xuY5kJavZbc&t=3s
+
+Metamask permite comprar MATIC e ingresarlo directamente en nuestro wallet de Polygon sin usar bridges y ahorrando así gran cantidad de comisiones
 
 **QUE ES MATIC?
 
 MATIC el el token de Polygon con el que se pagan las comisiones en Polygon y por lo tanto es necesario tener MATIC para trabajar con Provida 
+
+
+**COMO OBTENER MATICs GRATUITAMENTE DESDE MI CUENTA METAMASK:
+
+
+De forma gratuita,  activar la blockchain de Polygon en Metamask (viene todo especificado en este mismo manual de ayuda)
+
+Acceder a https://wallet.polygon.technology/
+
+Conectar la App con el Wallet
+
+Deberían aparecerte 0.01 MATIC en tu saldo de Metamask
+
+https://macncheese.finance/matic-polygon-mainnet-faucet-es.php
+
+
+
 
 **Acceso a la DAO:** https://client.aragon.org/
 
