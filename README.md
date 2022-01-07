@@ -1,48 +1,10 @@
 # Provida ngDAO
-.-Ayuda directa, íntegra y transparente para las mujeres que decidan seguir adelante con su embarazo
-.-Apoyo económico para  material y elementos que necesita  el  bebé que está por llegar : Ropa, pañales, cuna, coche, atención pediátrica, medicinas.
-.-seguimiento de la unión familiar y apoyo para el sustento y educación del bebé/niño
 
+## Ayuda directa, íntegra y transparente para las mujeres que decidan seguir adelante con su embarazo
 
 **Url:** https://provida.ngdao.org
 
-
-**QUE ES LA BLOCKCHAIN?
-
 **Blockchain:** Polygon
-
-Las blockchains del entorno Ethereum son las más desarrolladas y testadas del mundo blockchain
-La red principal de Ethereum está muy saturada y las comisiones por transacción son prácticamente inasumibles para transferir un token, emitirlo, hacer una propuesta en una DAO o votar la propuesta.
-Cada operación que realicemos en Polygon nos cuesta entre una milésima de euro a un céntimo de euro en el peor de los casos.
-
-**COMO CREAMOS UNA WALLET METAMASK?
-
-https://www.youtube.com/watch?v=xuY5kJavZbc&t=3s
-
-Metamask permite comprar MATIC e ingresarlo directamente en nuestro wallet de Polygon sin usar bridges y ahorrando así gran cantidad de comisiones
-
-**QUE ES MATIC?
-
-MATIC el el token de Polygon con el que se pagan las comisiones en Polygon y por lo tanto es necesario tener MATIC para trabajar con Provida 
-
-
-**COMO OBTENER MATICs GRATUITAMENTE DESDE MI CUENTA METAMASK:
-
-
-De forma gratuita,  activar la blockchain de Polygon en Metamask (viene todo especificado en este mismo manual de ayuda)
-
-Acceder a https://wallet.polygon.technology/
-
-Conectar la App con el Wallet
-
-Deberían aparecerte 0.01 MATIC en tu saldo de Metamask
-
-https://macncheese.finance/matic-polygon-mainnet-faucet-es.php
-
-
-
-
-
 
 **Acceso a la DAO:** https://client.aragon.org/
 
@@ -55,10 +17,6 @@ https://macncheese.finance/matic-polygon-mainnet-faucet-es.php
 **Las mujeres que desean tener a sus hijos, no deberían deshacerdse de ellos por falta de recursos.** Desde Provida ngDAO ayudamos a estas mujeres a seguir con su embarazo dotando de recursos obtenidos en esta DAO.
 
 **Wiki:** https://github.com/NGDAOorg/provida/wiki/DAOs
-
-## ¿Cómo ayudar?
-* **Envía tus criptomonedas o tokens a 0x8c4408a4ed129462c607e9aa5dd37fea2389744a en la red de Polygon** y tendrás derecho a recibir tokens PRV cuando se hagan repartos entre los contribuyentes.
-* **Compra tokens PRV en los pools de liquidez** que iremos indicando en esta página para así poder tomar parte en las decisiones de la DAO y revalorizar el token que poseen las mujeres afectadas
 
 ## Ayuda DIRECTA
 **La ayuda llega directamente**, sin intermediarios, a las madres sin recursos.
@@ -104,7 +62,7 @@ Los tokens de gobernanza se reparten entre:
 
 Son **personas comprometidas con la causa** y los poseedores iniciales de tokens pero **con vocación de ir perdiendo poder de decisión** en favor de afectadas y donantes de fondos, a base de quemar sus tokens o pasarlos a pools de liquidez
 
-### Afectadas
+### Beneficiarias
 
 En función del criterio establecido por los miembros de la DAO, **las afectadas podrán poseer tokens de la dao en cantidad suficiente para participar en todas las decisiones**
 
