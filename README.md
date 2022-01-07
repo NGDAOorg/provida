@@ -1,3 +1,11 @@
+<img src="/assets/images/Provida ngDAO logo.png" class="logo" alt="Provida ngDAO logo">
+<link rel="stylesheet" href="/assets/css/styles.css">
+<div class="scrollmenu">
+  <a href="/">Inicio</a>
+  <a href="https://github.com/NGDAOorg/provida/wiki">Wiki</a>
+  <a href="https://github.com/NGDAOorg/provida/discussions">Debate</a>
+</div>
+
 # Provida ngDAO
 
 ## Ayuda directa, íntegra y transparente para las mujeres que decidan seguir adelante con su embarazo
