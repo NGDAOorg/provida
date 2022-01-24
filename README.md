@@ -4,6 +4,7 @@
   <a href="/">Inicio</a>
   <a href="https://github.com/NGDAOorg/provida/wiki">Wiki</a>
   <a href="https://github.com/NGDAOorg/provida/discussions">Debate</a>
+  <a href="/blog.html">Blog</a>
 </div>
 
 # Provida ngDAO
