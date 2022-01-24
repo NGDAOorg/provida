@@ -1,6 +1,6 @@
 ---
 layout: defautl
-title:  "¿Qué es una ngDAO?"
+title:  "Nace Provida ngDAO, una Organización basada en Blocchain destinada a ayudar a madreas que decidan continuear con su embarazo hasta el final"
 tags: ngDAO
 ---
 #Nace Provida ngDAO, una Organización basada en Blocchain destinada a ayudar a madreas que decidan continuear con su embarazo hasta el final
