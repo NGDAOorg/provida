@@ -1,6 +1,6 @@
 ---
 layout: defautl
-title:  "Nace Provida ngDAO, una Organización basada en Blocchain destinada a ayudar a madreas que decidan continuear con su embarazo hasta el final"
+title:  "Nace Provida ngDAO, una Organización basada en Blocchain destinada a ayudar a madres que decidan continuear con su embarazo hasta el final y cuidar de sus hijos"
 tags: ngDAO, provida
 ---
 # Nace Provida ngDAO, una Organización basada en Blockhain destinada a ayudar a madres que decidan continuar con su embarazo hasta el final
