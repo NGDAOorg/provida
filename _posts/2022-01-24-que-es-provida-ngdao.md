@@ -65,7 +65,7 @@ El sistema de tokens de fidelización funcionaría creando un listado de comerci
 Tal como se hizo en La Palma DAO, está previsto crear una galería NFT donde se puedan poner fotos a la venta de manera que los beneficios vayan destinados a la DAO y por tanto al proyecto y las beneficiarias de las ayudas.
 
 ## Enlaces de interés
-* **Web de Provida ngDAO:** provida.ngdao.org
+* **Web de Provida ngDAO:** https://provida.ngdao.org
 * **¿Cómo puedo acceder a la DAO de Provida?:** https://github.com/NGDAOorg/provida/discussions/17
 * **Web de ngDAO:** www.ngdao.org
 
